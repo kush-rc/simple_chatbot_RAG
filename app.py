@@ -212,7 +212,7 @@ if prompt := st.chat_input("Ask about your documents..."):
 if not st.session_state.documents:
     st.info("""
     👈 **Get Started:**
-    1. Upload your Physics PDF
+    1. Upload your PDF
     2. Click "Process Files"
     3. Start asking questions!
     """)
