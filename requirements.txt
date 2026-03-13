@@ -1,5 +1,10 @@
 streamlit
 langchain-groq
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
 scikit-learn
-PyPDF2
 numpy
